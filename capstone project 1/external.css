@@ -1,0 +1,509 @@
+.a{
+	height:500px;
+	width: 1000px;
+	background:white;
+	background-image: url("images/mountain2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+
+}
+h1{
+	text-align: left;
+	padding-top:50px;
+	padding-left: 50px;
+	font-size: 50px;
+}
+.c{
+	color:lightgray;
+	text-align: left;
+	margin-top:1px;
+	padding-left:50px;
+
+
+}
+
+	
+body{
+	background: black;
+}
+.b{
+	height:600px;
+	width: 1000px;
+	background:lightgray;
+}
+
+.one{
+	height:250px;
+	width:250px;
+	background:yellow;
+	float:left;
+	margin-right: 50px;
+	margin-top: 70px;
+	margin-left:50px
+
+
+
+}
+.d{
+	height:250px;
+	width:250px;
+	background-image: url('images/travel.jpg');
+
+}
+
+
+
+}
+.f{
+	 font-size:20PX;
+	 font-family: system-ui;
+
+	 
+}
+.g{
+	 font-size:15PX;
+	 margin-left: 9px;
+	 
+	 
+}
+.h{
+	font-size: 25px;
+	margin-right:130px;
+
+	
+}
+.i{
+	height:20px;
+	width: 120px;
+	background-color: black;
+	margin-left: 125px;
+	color: white;
+
+	
+}
+.two{
+	height:250px;
+	width:250px;
+	background:yellow;
+	float:left;
+	margin-top: 70px;
+	margin-left: 25px;
+
+	
+
+
+}
+.e{
+	height:250px;
+	width:250px;
+	background-image: url('images/tree.jpg');
+}
+.j{
+	 font-size:20PX;
+	 font-family: system-ui;
+
+	 
+}
+.k{
+	 font-size:15PX;
+	 margin-left: 9px;
+	 
+	 
+}
+.l{
+	font-size: 25px;
+	margin-right:130px;
+	
+	
+}
+.m{
+	height:20px;
+	width: 120px;
+	background-color: black;
+	margin-left: 125px;
+	color: white;
+
+	
+}
+.three{
+	height:250px;
+	width:250px;
+	background:yellow;
+	float:right;
+	margin-top: 70px;
+	margin-right: 50px;
+	
+
+
+}
+.n{
+	height:250px;
+	width:250px;
+	background-image: url('images/ocean.jpg');
+}
+.o{
+	 font-size:20PX;
+	 font-family: system-ui;
+
+	 
+}
+.p{
+	 font-size:15PX;
+	 margin-left: 9px;
+	 
+	 
+}
+.q{
+	font-size: 25px;
+	margin-right:130px;
+	
+	
+}
+.r{
+	height:20px;
+	width: 120px;
+	background-color: black;
+	margin-left: 125px;
+	color: white;
+
+	
+}
+.s{
+	height:600px;
+	width:1000px;
+	background-color:white; 
+}
+.t{
+	font-size:40px;
+	
+}
+.u{
+	height:300px;
+	width:200px;
+	background-color: pink;
+	float: left;
+	margin-left:50px;
+	background-image: url('images/plants.jpg');
+	margin-top: 50px;
+
+}
+.v{
+	height:300px;
+	width:200px;
+	background-color: white;
+	float: left;
+	margin-left: 20px;
+	margin-top: 50px;
+
+}
+
+.w{
+	height:300px;
+	width:200px;
+	background-color: red;
+	float: left;
+	margin-left: 60px;
+	background-image: url('images/siri.jpg');
+	margin-top: 50px;
+
+}
+
+.x{
+	height:300px;
+	width:200px;
+	background-color: white;
+	float: right;
+	margin-right:50px;
+	margin-top: 50px;
+
+}
+.four{
+	text-align: left;
+}
+.five{
+	text-align: left;
+}
+.six{
+	height: 20px;
+	width:170px;
+	background-color: black;
+	color: white;
+	
+}
+.seven{
+	text-align: left;
+}
+.eight{
+	text-align: left;
+}
+.nine{
+	height: 20px;
+	width:170px;
+	background-color: black;
+	color: white;
+	
+}
+
+.cc{
+	height: 800px;
+	width:1000px;
+	background-color:lightgray;
+	
+}
+.dd{
+	height:400px;
+	width:1000px;
+	background-color: lightgray;
+}
+.ee{
+	height:400px;
+	width:450px;
+	background-color: pink;
+	float:left;
+}
+.hh{
+	height: 400px;
+	width:450px;
+	background-image: url('images/sea.jpg');
+}
+
+.ff{
+	height:400px;
+	width:250px;
+	background-color:lightgray;
+	float:left;
+	margin-left: 50px;
+}
+.gg{
+	height:400px;
+	width:250px;
+	background-color: white;
+	float:right;
+}
+	
+.ii{
+	text-align:left;
+	font-size: 30px;
+}
+.jj{
+	text-align: left;
+}
+.kk{
+	height:25px;
+	width:80px;
+	background-color: lightgray;
+	outline:1px solid black;
+	float:left;
+	margin-left: 5px;
+}
+.ll{
+	height:150px;
+	width:250px;
+	background-color: violet;
+	margin-top: 50px;
+}
+.mm{
+	height:150px;
+	width: 250px;
+	background-image: url('images/beach.jpg')
+}
+.nn{
+	margin-top: 50px;
+	text-align: left;
+	margin-left: 20px;
+}
+.oo{
+	height: 400px;
+	width: 1000px;
+	background-color:green;
+}
+.pp{
+	height: 400px;
+	width: 500px;
+	background-color:white;
+	float: left;
+}
+.qq{
+	height: 400px;
+	width: 500px;
+	background-color:lightgray;
+	float: right;
+}
+.rr{
+	height: 400px;
+	width:500px;
+	background-image:url('images/surfing.jpg'); 
+}
+.ss{
+	margin-right:40px;
+	font-size: 40px;
+	margin-top: -25px;
+
+}
+.tt{
+	margin-top: 5px;
+	text-align: left;
+	margin-left: 30px;
+}
+span{
+	margin-right: 330px;
+	color: lightgray;
+}
+hr{
+	width:400px;
+	margin-top: 10px;
+	margin-left:20px;
+}
+.zz{
+	height:20px;
+	width:70px;
+	background-color: white;
+	outline: 1px solid black;
+	margin-right:370px;
+	margin-top:20px;
+}
+.aaa{
+	height:450px;
+	width:1000px;
+	background-color: lightgray; 
+}
+.bbb{
+	height:350px;
+	width:1000px;
+	background-color: gray; 
+} 
+.eee{
+	height:250px;
+	width:250px;
+	background:lightgray;
+	float:left;
+	margin-right: 50px;
+	margin-top: -5px;
+	margin-left:50px
+
+
+
+}
+.kkkk{
+	height:250px;
+	width:250px;
+	background-image:url('images/manager1.jpg');
+	background-size: cover;
+
+
+}
+.fff{
+	height:250px;
+	width:250px;
+	background:yellow;
+	float:left;
+	margin-right: 50px;
+	margin-top: -5px;
+	margin-left:30px
+}
+.lll{
+	height:250px;
+	width:250px;
+	background-image:url('images/tool1.jpg');
+	background-size: cover;
+
+
+}
+
+
+
+
+.ggg{
+	height:250px;
+	width:250px;
+	background:red;
+	float:right;
+	margin-right: 50px;
+	margin-top: -250px;
+	margin-left:50px
+
+
+
+}
+.mmm{
+	height:250px;
+	width:250px;
+	background-image:url('images/tool.jpg');
+	background-size: cover;
+
+
+}
+.hhh{
+	height:250px;
+	width:250px;
+	background:yellow;
+	float:left;
+	margin-right: 50px;
+	margin-top: 20px;
+	margin-left:50px
+
+
+
+}
+.ooo{
+	height:250px;
+	width:250px;
+	background-image:url('images/tool2.jpg');
+	background-size: cover;
+}
+
+.iii{
+	height:250px;
+	width:250px;
+	background:yellow;
+	float:left;
+	margin-right: 50px;
+	margin-top: 20px;
+	margin-left:30px
+
+
+
+
+}
+.ppp{
+	height:250px;
+	width:250px;
+	background-image:url('images/tool3.jpg');
+	background-size: cover;
+}
+.jjj{
+	height:250px;
+	width:250px;
+	background:gray;
+	float:right;
+	margin-right: 50px;
+	margin-top: -250px;
+	margin-left:50px
+
+
+
+}
+.mmm{
+	height:250px;
+	width:250px;
+	background-image:url('images/tool4.jpg');
+	background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
